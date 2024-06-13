@@ -14,3 +14,11 @@ Go to [openweathermap](https://openweathermap.org/)
 Sign-in and claim the API key (in MyAccount -> API keys).
 
 copy and paste your API key in the script.js file -> `const apiKey = 'YOUR-API-KEY';`
+
+>[!TIP]
+>If you're using VsCode, download 'Live Server' to host your app locally.
+
+### Feel free to drop a text
+📧email: shashankvsdb@gmail.com
+
+🔗linkedln: [shashankkamble97](https://www.linkedin.com/in/shashankkamble97/)
